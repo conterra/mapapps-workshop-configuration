@@ -1,4 +1,4 @@
-[Basis Schulung](Readme.md)
+[:point_left: zurük zur Übersicht](README.md)
 
 Aufgabe 8 - Räumliche Auswahl / Selektion aktivieren
 =======================================================================
