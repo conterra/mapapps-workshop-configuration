@@ -2,7 +2,7 @@
 map.apps Workshop Konfiguration
 =====================================
 
-Created by con terra GmbH
+Dieses Projekt ist ein Ausgangspunkt für den map.apps Konfigurations Workshop. Es basiert auf mapapps version 4.x.
 
 *   [Aufgabe 01 - App hinzufügen](BAS01---App-hinzufügen.md)
 *   [Aufgabe 02 - Kartenlayer hinzufügen](BAS02---Kartenlayer-hinzufügen.md)
