@@ -77,4 +77,4 @@ Ergebnis
 
 Sie können nun in der App nach Krankenhäusern im Suchfeld suchen.
 
-[Atlassian](http://www.atlassian.com/)
+

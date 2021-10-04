@@ -24,9 +24,3 @@ In den folgenden Schritten lernen Sie, wie Sie einen neuen Kartenlayer der App h
 9.  Klicken Sie auf den "Vorschau aktualisieren"-Button. Die Karte wird im Hintergrund aktualisiert und die Krankenhäuser von Hamburg erscheinen auf der Karte.
 10. Sie können den Dialog nun schließen.
 
-Attachments:
-------------
-
-![](images/icons/bullet_blue.gif) [image2018-7-6\_12-46-28.png](attachments/339383853/339383932.png) (image/png)
-
-[Atlassian](http://www.atlassian.com/)

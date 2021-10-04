@@ -51,9 +51,4 @@ In dieser Übung lernen Sie, wie Sie weitere Hintergrundkarten der Kartenanwendu
 5.  Die neuen Hintergrundkarten stehen der App nun zur Verfügung.
     ![](attachments/339384229/339384244.png)
 
-Attachments:
-------------
 
-![](images/icons/bullet_blue.gif) [image2018-7-9\_12-36-54.png](attachments/339384229/339384244.png) (image/png)
-
-[Atlassian](http://www.atlassian.com/)

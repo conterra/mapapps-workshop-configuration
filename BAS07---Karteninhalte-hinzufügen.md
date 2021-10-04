@@ -31,4 +31,3 @@ Hinweis
 
 Die Reihenfolge der Layer-Konfiguration bestimmt auch die Zeichenreihenfolge in der Karte (unten stehende Layer werden unter anderen Layern in der Karte dargestellt).
 
-[Atlassian](http://www.atlassian.com/)

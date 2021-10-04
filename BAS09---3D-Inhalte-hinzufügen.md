@@ -174,4 +174,3 @@ In dieser Übung soll ein Scene Layer zur App hinzugefügt werden, um in der 3D-
 
 6.  Navigieren Sie nun durch die Szene und beobachten Sie, wie sich die Darstellung der Punkt-Symbole dynamisch verändert.
 
-[Atlassian](http://www.atlassian.com/)

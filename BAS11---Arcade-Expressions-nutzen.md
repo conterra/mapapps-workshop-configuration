@@ -77,4 +77,3 @@ Mit Hilfe von Arcade Expressions können die Werte entsprechend in verständlich
     }
     ```
 
-[Atlassian](http://www.atlassian.com/)

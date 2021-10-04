@@ -78,9 +78,4 @@ Ergebnis
 
 Die Hintergrundkarten in Ihrer App werden nun gemäß Ihrer geänderten Angaben dargestellt.
 
-Attachments:
-------------
 
-![](images/icons/bullet_blue.gif) [image2018-7-12\_11-18-23.png](attachments/339384376/339384956.png) (image/png)
-
-[Atlassian](http://www.atlassian.com/)

@@ -101,4 +101,3 @@ Um automatisch alle Layer, die in einer App verwendet werden zur räumlichen Aus
 
 5.  Speichern Sie die Konfiguration und starten Sie die App neu.
 
-[Atlassian](http://www.atlassian.com/)

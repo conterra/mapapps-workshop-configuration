@@ -161,4 +161,4 @@ Ergebnis
 
 Es wird ein angepasstes Popup dargestellt mit individuellen und ausgewählten Attributnamen sowie der Darstellung von Dateianhängen.
 
-[Atlassian](http://www.atlassian.com/)
+

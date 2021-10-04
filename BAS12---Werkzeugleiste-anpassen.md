@@ -24,15 +24,3 @@ Ergebnis
 Auf der Karte erscheint nun die neue Werkzeugleiste mit dem im oberen rechten Kartenbereich der Anwendung.
 ![](attachments/339384431/339384440.png)
 
-Attachments:
-------------
-
-![](images/icons/bullet_blue.gif) [image2018-7-9\_17-48-45.png](attachments/339384431/339384434.png) (image/png)
- ![](images/icons/bullet_blue.gif) [image2018-7-9\_17-51-6.png](attachments/339384431/339384435.png) (image/png)
- ![](images/icons/bullet_blue.gif) [image2018-7-9\_17-51-42.png](attachments/339384431/339384436.png) (image/png)
- ![](images/icons/bullet_blue.gif) [image2018-7-9\_17-52-49.png](attachments/339384431/339384437.png) (image/png)
- ![](images/icons/bullet_blue.gif) [image2018-7-9\_17-54-20.png](attachments/339384431/339384438.png) (image/png)
- ![](images/icons/bullet_blue.gif) [image2018-7-9\_17-55-11.png](attachments/339384431/339384439.png) (image/png)
- ![](images/icons/bullet_blue.gif) [image2018-7-9\_17-57-31.png](attachments/339384431/339384440.png) (image/png)
-
-[Atlassian](http://www.atlassian.com/)

@@ -64,16 +64,4 @@ Der Inhalt ist nun in der App registriert. Sie müssen nun noch ein Werkzeug-Ico
 3.  Der Copyright-Dialog ist nun auf der Karte eingefügt und lässt sich über das "Copyright"-Werkzeug in der rechten Werkzeugleiste öffnen.  
     ![](attachments/339384505/339384804.png)
 
-  
-
-  
-
-Attachments:
-------------
-
-![](images/icons/bullet_blue.gif) [image2018-7-10\_11-20-56.png](attachments/339384505/339384533.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-7-11\_11-50-52.png](attachments/339384505/339384792.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-7-11\_12-7-41.png](attachments/339384505/339384801.png) (image/png)  
-![](images/icons/bullet_blue.gif) [image2018-7-11\_12-10-49.png](attachments/339384505/339384804.png) (image/png)  
-
-[Atlassian](http://www.atlassian.com/)
+    

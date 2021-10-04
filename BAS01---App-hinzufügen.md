@@ -33,5 +33,3 @@ In den folgenden Schritten erfahren Sie, wie Sie eine neue App dem System hinzuf
     Die App wurde nun im System registriert und erscheint im map.apps Manger ist der App Liste.
 17. Um sich die App "Krankenhäuser in Hamburg" anzeigen zu lassen, klicken Sie auf die Tabellenzeile der neu angelegten App in der App Liste. Es öffnet sich der "Konfiguration" Dialog. Wählen Sie den ersten Punkt "Live-Konfiguration" aus.
 18. Die App "Krankenhäuser in Hamburg" öffnet sich in einem neuen Browser Tab.
-
-[Atlassian](http://www.atlassian.com/)

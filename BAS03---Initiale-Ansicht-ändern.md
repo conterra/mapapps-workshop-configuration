@@ -18,4 +18,3 @@ In den folgenden Schritten wird ihnen gezeigt, wie Sie die Initiale Kartenansich
 3.  Speichern Sie den festgelegten Raumausschnitt im Dialog über den "App speichern"-Button ab.
 4.  Fertig. Der neue Raumausschnitt wurde ist der festgelegt.
 
-[Atlassian](http://www.atlassian.com/)
