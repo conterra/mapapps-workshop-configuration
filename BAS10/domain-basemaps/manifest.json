@@ -1,0 +1,33 @@
+{
+    "name": "domain-basemaps",
+    "version": "1.0.0",
+    "dependencies": {
+        "domains-system": "^4.3.0"
+    },
+     
+    "main": "",
+    "layer": "",
+    "i18n": [],
+    "domain-config": {      
+        "map-basemaps": [
+               {
+                  "id": "topo",
+                  "title": "Topographisch",
+                  "basemap": "topo-vector"
+               },
+               {
+                  "id": "gray",
+                  "title": "Hellgrauer Hintergrund",
+                  "basemap": "gray-vector",
+                  "selected": true
+               },
+               {
+                  "id": "streets",
+                  "title": "Straßenkarte",
+                  "basemap": "streets-relief-vector"
+               }
+		],
+        "map-layers": [],
+        "ags-stores": []
+    }
+}
