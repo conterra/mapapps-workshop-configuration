@@ -11,8 +11,7 @@ In den folgenden Schritten wird ihnen gezeigt, wie Sie die Initiale Kartenansich
     Pfad: Live-Konfiguration \> Karte \> Initiale Ansicht
 2.  Verschieben und Zoomen Sie die Karte auf den passenden Raumauschnitt von Hamburg.
 
-    Tipp
-
+    :point_up: Tipp:
     Sie können auch per Ortssuche den Raumausschnitt ändern.
 
 3.  Speichern Sie den festgelegten Raumausschnitt im Dialog über den "App speichern"-Button ab.

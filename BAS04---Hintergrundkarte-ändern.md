@@ -49,6 +49,7 @@ In dieser Übung lernen Sie, wie Sie weitere Hintergrundkarten der Kartenanwendu
 
 4.  Speichern Sie ihre Einstellungen mit dem "Fertig" - Button.
 5.  Die neuen Hintergrundkarten stehen der App nun zur Verfügung.
+    
     ![](attachments/339384229/339384244.png)
 
 

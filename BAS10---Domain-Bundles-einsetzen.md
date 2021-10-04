@@ -70,6 +70,7 @@ In dieser Übung soll die Konfiguration der Hintergrund-Karten in ein eigenes Do
 
 4.  Ergänzen Sie nun eine weitere Basemap, z.B. aus dieser Liste: [https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html\#basemap](https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html#basemap) oder ändern Sie z.B. die beim Start selektierte Hintergrundkarte.
 5.  Erstellen Sie eine neue ZIP-Datei mit der **`manifest.json`** Datei und laden Sie diese im map.apps Manager hoch.
+    
     ![](attachments/339384376/339384956.png)
 6.  Starten Sie die App neu.
 
