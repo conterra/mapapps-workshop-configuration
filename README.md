@@ -16,4 +16,4 @@ Dieses Projekt ist ein Ausgangspunkt für den map.apps Konfigurations Workshop. 
 *   [Aufgabe 10 - Domain Bundles einsetzen](BAS10---Domain-Bundles-einsetzen.md)
 *   [Aufgabe 11 - Arcade Expressions nutzen](BAS11---Arcade-Expressions-nutzen.md)
 *   [Aufgabe 12 - Werkzeugleiste anpassen](BAS12---Werkzeugleiste-anpassen.md)
-*   [Aufgabe 13 - Eigene Inhalte hinzufügen](BAS13---Eigene-Inhalte-hinzufügen.md)
+*   [Aufgabe 13 - Eigene Inhalte hinzufügen](BAS13---Eigene%20Inhalte%20hinzufügen.md)
