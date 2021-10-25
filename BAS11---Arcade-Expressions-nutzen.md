@@ -1,4 +1,4 @@
-[:point_left: zurük zur Übersicht](README.md)
+[:point_left: zurück zur Übersicht](README.md)
 
 Augabe 11 - Arcade Expressions nutzen
 ========================================================
@@ -10,11 +10,9 @@ In dieser Übung erfahren Sie, wie Sie mit Hilfe von Arcade Expressions Sachdate
 In dem in unserer App genutzten Layer für die Darstellung der Krankenhäuser ([https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer/0](https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer/0)) gibt es zwei Attribute, die Detail-Auskünfte zu den Angeboten der Krankenhäuser liefern:
 
 -   **`teilnahme_ `** (Informiert darüber, ob das KKH an der Herzinfarktversorgung teilnimmt)
--   **`geburtskli`**(Informiert darüber, ob dieses KKH eine Geburtshilfe-Station hat)
+-   **`geburtskli`** (Informiert darüber, ob dieses KKH eine Geburtshilfe-Station hat)
 
-Die Felder sind jedoch nur mit numerischen Werten belegt, die der Anwender der App nicht verstehen kann. (1 bedeutet "ja").
-
-Mit Hilfe von Arcade Expressions können die Werte entsprechend in verständliche Texte umgewandelt werden.
+Mit Hilfe von Arcade Expressions können die Werte in ausführlichere Texte umgewandelt werden.
 
 1.  Ergänzen Sie dazu folgende Konfiguration in Ihrer App:
 
@@ -63,11 +61,11 @@ Mit Hilfe von Arcade Expressions können die Werte entsprechend in verständlich
             }],
             "expressionInfos": [{
                 "name": "herz",
-                "expression": "IIf($feature.teilnahme_ == \"ja\", \"Wir versorgen Herzinfarkte\", \"Hier keine Herzinfarktversorgung\")",
+                "expression": "IIf($feature.teilnahme_ == \"Ja\", \"Wir versorgen Herzinfarkte\", \"Hier keine Herzinfarktversorgung\")",
                 "title": "Teilnahme an der Herzinfarktversorgung"
             }, {
                 "name": "geburt",
-                "expression": "IIf($feature.geburtskli == \"ja\", \"Hier können Sie ihr Kind bekommen\", \"Wir haben keine Geburtenstation\")",
+                "expression": "IIf($feature.geburtskli == \"Ja\", \"Hier können Sie ihr Kind bekommen\", \"Wir haben keine Geburtenstation\")",
                 "title": "Geburtshilfe"
             }]
         }
