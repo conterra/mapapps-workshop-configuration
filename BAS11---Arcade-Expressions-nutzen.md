@@ -7,7 +7,7 @@ Created by con terra GmbH
 
 In dieser Übung erfahren Sie, wie Sie mit Hilfe von Arcade Expressions Sachdaten am Client für die Ausgabe von Popups anpassen können.
 
-In dem in unserer App genutzten Layer für die Darstellung der Krankenhäuser ([https://services1.arcgis.com/XRQ58kpEa17kSlHX/arcgis/rest/services/Krankenh%C3%A4user/FeatureServer/0](https://services1.arcgis.com/XRQ58kpEa17kSlHX/arcgis/rest/services/Krankenh%C3%A4user/FeatureServer/0)) gibt es zwei Attribute, die Detail-Auskünfte zu den Angeboten der Krankenhäuser liefern:
+In dem in unserer App genutzten Layer für die Darstellung der Krankenhäuser ([https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer/0](https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer/0)) gibt es zwei Attribute, die Detail-Auskünfte zu den Angeboten der Krankenhäuser liefern:
 
 -   **`teilnahme_ `** (Informiert darüber, ob das KKH an der Herzinfarktversorgung teilnimmt)
 -   **`geburtskli`**(Informiert darüber, ob dieses KKH eine Geburtshilfe-Station hat)
@@ -23,16 +23,13 @@ Mit Hilfe von Arcade Expressions können die Werte entsprechend in verständlich
     ``` {.syntaxhighlighter-pre data-syntaxhighlighter-params="brush: js; gutter: false; theme: Confluence" data-theme="Confluence"}
     {
         "id": "krankenhaeuser",
-        "url": "https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer",
+        "url": "https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer/0",
         "type": "AGS_FEATURE",
         "title": "Krankenhäuser",
         "outFields": ["*"],
         "elevationInfo": {
             "mode": "relative-to-scene",
             "offset": 20
-        },
-        "featureReduction": {
-            "type": "selection"
         },
         "popupTemplate": {
             "title": "{name}",
