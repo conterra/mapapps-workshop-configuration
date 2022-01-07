@@ -97,19 +97,16 @@ In dieser Übung soll ein Scene Layer zur App hinzugefügt werden, um in der 3D-
                         }, {
                             "type": "fields",
                             "fieldInfos": [{
-                                "fieldName": "adresse",
-                                "label": "Adresse"
+                                "fieldName": "strasse",
+                                "label": "Straße"
                             }, {
                                 "fieldName": "ort",
                                 "label": "Ort"
                             }, {
-                                "fieldName": "telefon",
-                                "label": "Telefon"
-                            }, {
                                 "fieldName": "homepage",
                                 "label": "Homepage"
                             }, {
-                                "fieldName": "link_einze",
+                                "fieldName": "krankenhau",
                                 "label": "Details im Krankenhausverzeichnis"
                             }]
                         }, {
@@ -145,7 +142,7 @@ In dieser Übung soll ein Scene Layer zur App hinzugefügt werden, um in der 3D-
                 "ground": "world-elevation"
             },
             "view": {
-                "viewmode": "2D",
+                "viewmode": "3D",
                 "extent": {
                     "xmin": 1043064.5974291301,
                     "xmax": 1189823.691736472,
