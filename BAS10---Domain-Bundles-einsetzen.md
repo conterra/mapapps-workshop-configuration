@@ -28,7 +28,7 @@ In dieser Übung soll die Konfiguration der Hintergrund-Karten in ein eigenes Do
     Die Hintergrundkarten werden wie zuvor angezeigt. Die Konfiguration stammt jedoch aus dem Domain-Bundle "`domain-basemaps`". 
     Damit Domain-Bundles über den Filter im Manager gefunden werden, muss ihr Name immer mit "domain-" beginnen.
 
-3.  Öffnen Sie nun die manifest.json Datei des Domain-Bundles im Ordner C:\\Training\\Dateien\\Basis\_Schulung\\Uebungen\\BAS10. Dort finden Sie die Konfiguration der Basemaps wieder:
+3.  Öffnen Sie nun die manifest.json Datei des Domain-Bundles im Ordner BAS10/domain-basemaps. Dort finden Sie die Konfiguration der Basemaps wieder:
 
     **app.json**
 
