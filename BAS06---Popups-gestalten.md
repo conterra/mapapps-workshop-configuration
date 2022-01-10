@@ -17,7 +17,7 @@ In dieser Übung lernen Sie, wie sie Informationen zu einem Objekt in Popups anp
    "layers": [
      {
         "id": "krankenhaeuser",
-        "url": "https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer",
+        "url": "https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer/0",
         "type": "AGS_FEATURE",
         "title": "Krankenhäuser",
         "description": "Krankenhäuser_Points",
