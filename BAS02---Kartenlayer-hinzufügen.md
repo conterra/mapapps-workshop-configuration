@@ -22,5 +22,6 @@ In den folgenden Schritten lernen Sie, wie Sie einen neuen Kartenlayer der App h
                 "type": "AGS_FEATURE"
             },
 ```
-6.  Klicken Sie auf den "Vorschau anzeigen"-Button. Die Anwendung wird gestarten und die Krankenhäuser von Hamburg erscheinen auf der Karte.
+6.  Speichern Sie den festgelegten Raumausschnitt im Dialog über den "Speichern"-Button ab.
+7. Klicken Sie auf den "App-Vorschau"-Button. Die Anwendung wird gestarten und die Krankenhäuser von Hamburg erscheinen auf der Karte.
 
