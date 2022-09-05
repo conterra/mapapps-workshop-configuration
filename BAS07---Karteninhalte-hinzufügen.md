@@ -15,7 +15,7 @@ In dieser Übung fügen Sie einen weiteren ArcGIS Feature Service der Anwendung 
 "map": {
     "layers": [
             {
-                "id": "krankenhuser"
+                "id": "krankenhaeuser"
                 ...
             },
             {

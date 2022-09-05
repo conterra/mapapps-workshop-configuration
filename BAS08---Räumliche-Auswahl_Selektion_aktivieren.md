@@ -4,7 +4,8 @@ Aufgabe 9 - Räumliche Auswahl / Selektion aktivieren
 =======================================================================
 
 Created by con terra GmbH
-In  dieser Übung lernen Sie eine räumliche Selektion auf alle ArcGIS Feature Layer (Rechteck, Punkt, Polygon)  zu konfigurieren.
+
+In dieser Übung lernen Sie eine räumliche Selektion auf alle ArcGIS Feature Layer (Rechteck, Punkt, Polygon)  zu konfigurieren.
 Um automatisch alle Layer, die in einer App verwendet werden zur räumlichen Auswahl zur Verfügung zu stellen, kann die sog. **`AutoStoreRegistrierung`**verwendet werden.
 
 1.  Ergänzen Sie dazu in der Konfiguration folgende Option:

@@ -22,23 +22,17 @@ In dieser Übung soll ein Scene Layer zur App hinzugefügt werden, um in der 3D-
 
     Sobald ein Gebäude ein Krankenhaus- oder Notunterkunft-Symbol überdeckt, wird das Symbol ausgeblendet. Dies führt zu einem unschönen Auftauchen und Verschwinden der Objekte, wenn man sich in der 3D-Szene bewegt. Um die Auffindbarkeit der Objekte zu verbessern, können diese mit einem Versatz zu den Gebäuden dargestellt werden.
 
-2.  Ergänzen Sie folgende Informationen an den beiden Layern "krankenhaeuser" und "not":
+2.  Ergänzen Sie folgende Informationen an den beiden Layern "krankenhaeuser" und "schulen":
 
     **app.json**
 
     ``` {.syntaxhighlighter-pre data-syntaxhighlighter-params="brush: java; gutter: false; theme: Confluence" data-theme="Confluence"}
     ...
-    {
-        "id": "not",
-        "url": "https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Notunterk%c3%bcnfte_2016/FeatureServer/0",
-        "type": "AGS_FEATURE",
-        "title": "Notunterkünfte",
-        "outFields": ["*"],
-        "elevationInfo": {
+       "elevationInfo": {
             "mode": "relative-to-scene",
             "offset": 20
         }
-    },
+    
     ...
     ```
 
@@ -121,15 +115,26 @@ In dieser Übung soll ein Scene Layer zur App hinzugefügt werden, um in der 3D-
                         "type": "selection"
                     }
                 }, {
-                    "id": "not",
-                    "url": "https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Notunterk%c3%bcnfte_2016/FeatureServer/0",
-                    "type": "AGS_FEATURE",
-                    "title": "Notunterkünfte",
-                    "outFields": ["*"],
-                    "elevationInfo": {
-                        "mode": "relative-to-scene",
-                        "offset": 20
-                    },
+                            "id": "schulen",
+                            "url": "https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/Hamburg_Schulen/FeatureServer/0",
+                            "type": "AGS_FEATURE",
+                            "title": "Schulen",
+                            "outFields": [
+                                "*"
+                            ],
+                            "renderer": {
+                                "type": "simple",
+                                "symbol": {
+                                    "type": "simple-marker",
+                                    "size": 6,
+                                    "color": "green",
+                                    "outline": {
+                                        "width": 0.5,
+                                        "color": "white"
+                                    }
+                                }
+                            }
+                        }
                     "featureReduction": {
                         "type": "selection"
                     }
@@ -157,7 +162,7 @@ In dieser Übung soll ein Scene Layer zur App hinzugefügt werden, um in der 3D-
 
 5.  Um die Ansicht von 2D auf 3D umstellen zu können, muss hierfür das entsprechende Werkzeug in der App eingefügt werden.
 
-    Fügen Sie das folgende Bundle zur App hinzu:
+    Fügen Sie, falls nicht vorhanden, das folgende Bundle zur App hinzu:
 
     **app.json**
 
