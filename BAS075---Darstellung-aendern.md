@@ -1,6 +1,6 @@
 [:point_left: zurük zur Übersicht](README.md)
 
-Aufgabe 7 - Karteninhalte hinzufügen
+Aufgabe 8 - Karteninhalte hinzufügen
 =======================================================
 
 Created by con terra GmbH

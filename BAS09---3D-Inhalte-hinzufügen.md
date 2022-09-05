@@ -1,6 +1,6 @@
 [:point_left: zurük zur Übersicht](README.md)
 
-Aufgabe 9 - 3D Inhalte hinzufügen
+Aufgabe 10 - 3D Inhalte hinzufügen
 ====================================================
 
 Created by con terra GmbH

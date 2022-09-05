@@ -1,7 +1,7 @@
 [:point_left: zurük zur Übersicht](README.md)
 
 
-Augabe 13 - Eigene Inhalte hinzufügen
+Augabe 14 - Eigene Inhalte hinzufügen
 ========================================================
 
 Created by con terra GmbH
@@ -64,4 +64,3 @@ Der Inhalt ist nun in der App registriert. Sie müssen nun noch ein Werkzeug-Ico
 3.  Der Copyright-Dialog ist nun auf der Karte eingefügt und lässt sich über das "Copyright"-Werkzeug in der rechten Werkzeugleiste öffnen.  
     ![](attachments/339384505/339384804.png)
 
-    
