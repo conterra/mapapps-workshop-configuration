@@ -19,10 +19,10 @@ In dieser Übung fügen Sie einen weiteren ArcGIS Feature Service der Anwendung 
                 ...
             },
             {
-                "id": "not",
-                "url": "https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Notunterk%c3%bcnfte_2016/FeatureServer/0",
+                "id": "schulen",
+                "url": "https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/Hamburg_Schulen/FeatureServer/0",
                 "type": "AGS_FEATURE",
-                "title": "Notunterkünfte",
+                "title": "Schulen",
                 "outFields": ["*"]
             }
 ```
