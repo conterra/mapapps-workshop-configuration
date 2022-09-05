@@ -7,7 +7,7 @@ Created by con terra GmbH
 
 In dieser Übung lernen Sie, wie eine ArcGIS Server Suche der App hinzugefügt wird. Danach können Sie nach den Namen der Krankenhäuser suchen.
 
-1.  Fügen Sie das Bundle agssearch zur neuen App in der `app.json` hinzu.
+1.  Fügen Sie, falls noch nicht vorhanden, das Bundle agssearch zur neuen App in der `app.json` hinzu.
 
     **app.json**
 
@@ -35,7 +35,8 @@ In dieser Übung lernen Sie, wie eine ArcGIS Server Suche der App hinzugefügt w
             "omniSearchDefaultLabel": "Krankenhaus suchen...",
             "omniSearchLabelAttr": "${name}",
             "omniSearchSearchAttr": "name"
-        }]
+        }],
+    ...
     },
     ```
 
@@ -48,7 +49,7 @@ In dieser Übung lernen Sie, wie eine ArcGIS Server Suche der App hinzugefügt w
        
     "bundles": {
           "agssearch": {
-             "AGSStore": [
+            "AGSStore": [
                 {
                    "id": "krankenhaus",
                    "layerId": "krankenhaeuser",
@@ -63,8 +64,14 @@ In dieser Übung lernen Sie, wie eine ArcGIS Server Suche der App hinzugefügt w
                    "omniSearchLabelAttr": "${name}",
                    "omniSearchSearchAttr": "name"
                 }
-             ]
-          },
+             ],
+            "AutoStoreRegistration": {
+                "componentEnabled": true,
+                "useIn": [
+                    "selection"
+                ]
+            }
+        },
 
 
     ...
