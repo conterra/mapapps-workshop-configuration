@@ -87,7 +87,7 @@ In dieser Übung soll ein Scene Layer zur App hinzugefügt werden, um in der 3D-
                         "title": "{name}",
                         "content": [{
                             "type": "text",
-                            "text": "Dieses Krankenhaus verfügt über {anzahl_pla} Betten und {anzahl_p_1} teilstationäre Behandlungsplätze."
+                            "text": "Dieses Krankenhaus verfügt über {anzahl_planbetten} Betten und {anzahl_plaetze_teilstationaer} teilstationäre Behandlungsplätze."
                         }, {
                             "type": "fields",
                             "fieldInfos": [{

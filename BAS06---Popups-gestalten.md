@@ -27,8 +27,26 @@ In dieser Übung lernen Sie, wie sie Informationen zu einem Objekt in Popups anp
            "content": [
               {
                  "type": "text",
-                 "text": "Dieses Krankenhaus verfügt über {anzahl_pla} Betten und {anzahl_p_1} teilstationäre Behandlungsplätze."
-              }
+                 "text": "Dieses Krankenhaus verfügt über {anzahl_planbetten} Betten und {anzahl_plaetze_teilstationaer} teilstationäre Behandlungsplätze."
+              },
+   {
+                            "type": "fields",
+                            "fieldInfos": [{
+                                "fieldName": "strasse",
+                                "label": "Straße"
+                            }, {
+                                "fieldName": "ort",
+                                "label": "Ort"
+                            }, {
+                                "fieldName": "homepage",
+                                "label": "Homepage"
+                            }, {
+                                "fieldName": "krankenhau",
+                                "label": "Details im Krankenhausverzeichnis"
+                            }]
+                        }, {
+                            "type": "attachments"
+                        }
            ]
         }
      }
@@ -67,18 +85,18 @@ In dieser Übung lernen Sie, wie sie Informationen zu einem Objekt in Popups anp
               {
                  "type": "fields",
                  "fieldInfos": [{
-                               "fieldName": "strasse",
-                               "label": "Straße"
-                           }, {
-                               "fieldName": "ort",
-                               "label": "Ort"
-                           }, {
-                               "fieldName": "homepage",
-                               "label": "Homepage"
-                           }, {
-                               "fieldName": "krankenhau",
-                               "label": "Details im Krankenhausverzeichnis"
-                           }]
+                     "fieldName": "strasse",
+                     "label": "Straße"
+                     }, {
+                      "fieldName": "ort",
+                       "label": "Ort"
+                     }, {
+                       "fieldName": "homepage",
+                       "label": "Homepage"
+                     }, {
+                       "fieldName": "krankenhausverzeichnis",
+                       "label": "Details im Krankenhausverzeichnis"
+                 }]
               }
            ]
         }
