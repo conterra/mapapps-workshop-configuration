@@ -20,7 +20,7 @@ In dieser Übung soll ein Scene Layer zur App hinzugefügt werden, um in der 3D-
     }
     ```
 
-    Sobald ein Gebäude ein Krankenhaus- oder Notunterkunft-Symbol überdeckt, wird das Symbol ausgeblendet. Dies führt zu einem unschönen Auftauchen und Verschwinden der Objekte, wenn man sich in der 3D-Szene bewegt. Um die Auffindbarkeit der Objekte zu verbessern, können diese mit einem Versatz zu den Gebäuden dargestellt werden.
+    Sobald ein Gebäude ein Krankenhaus- oder Schulen-Symbol überdeckt, wird das Symbol ausgeblendet. Dies führt zu einem unschönen Auftauchen und Verschwinden der Objekte, wenn man sich in der 3D-Szene bewegt. Um die Auffindbarkeit der Objekte zu verbessern, können diese mit einem Versatz zu den Gebäuden dargestellt werden.
 
 2.  Ergänzen Sie folgende Informationen an den beiden Layern "krankenhaeuser" und "schulen":
 
