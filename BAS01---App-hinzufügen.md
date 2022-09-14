@@ -9,14 +9,14 @@ In den folgenden Schritten erfahren Sie, wie Sie eine neue App dem System hinzuf
 
 1.  Öffnen Sie den map.apps Manager [http://localhost:8080/mapapps/manager
     ](http://localhost:8080/mapapps/manager)
-2.  Falls Sie noch nicht angemeldet sind, melden Sie sich als Nutzer "**admin**" und Passwort "**admin**" am System an.
+2.  Falls Sie noch nicht angemeldet sind, melden Sie sich als Administrator am System an.
 3.  Wählen Sie den Tab "Apps" im Menubereich des Managers aus.
 4.  Klicken Sie den "Erstellen"-Button um eine neue App hinzuzufügen.
 5.  Geben Sie als Titel "**Krankenhäuser in Hamburg**" ein.
 6.  Geben Sie der App-ID den Bezeichner "**krankenhaus**".
 7.  Optional können Sie der App eine Beschreibung beifügen.
 8.  Klicken Sie auf den "Weiter"-Button.
-9.  Im nächsten Dialog wählen aus der Liste "Standard-App" und "Linie 4" aus.
+9.  Im nächsten Dialog wählen aus der Liste "Standard-App" aus.
 10. Klicken Sie auf den Button "Fertig".
 11. Den Konfigurationsdialog überspringen Sie mit dem "Weiter"-Button.
 12. Den nachfolgenden Dialog "Allgemeine Information" überspringen Sie mit dem "Weiter"-Button.
@@ -31,5 +31,5 @@ In den folgenden Schritten erfahren Sie, wie Sie eine neue App dem System hinzuf
 15. Den "App-Vorlagen" Dialog überspringen Sie mit dem "Weiter"-Button.
 16. Den "Allgemeine Informationen" Dialog schließen Sie mit dem "Fertig"-Button ab.
     Die App wurde nun im System registriert und erscheint im map.apps Manger ist der App Liste.
-17. Um sich die App "Krankenhäuser in Hamburg" anzeigen zu lassen, klicken Sie auf die Tabellenzeile der neu angelegten App in der App Liste. Es öffnet sich der "Konfiguration" Dialog. Wählen Sie den ersten Punkt "Live-Konfiguration" aus.
-18. Die App "Krankenhäuser in Hamburg" öffnet sich in einem neuen Browser Tab.
+17. Um sich die App "Krankenhäuser in Hamburg" anzeigen zu lassen, klicken Sie auf die Tabellenzeile der neu angelegten App in der App Liste. Es öffnet sich der "Konfiguration" Dialog. Wählen Sie den ersten Punkt "App Editor" aus.
+18. Klicken Sie im nachfolgenden Dialog "App Vorschau". Die App "Krankenhäuser in Hamburg" öffnet sich in einem neuen Browser Tab.
