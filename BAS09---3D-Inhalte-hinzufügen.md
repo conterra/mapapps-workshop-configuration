@@ -39,9 +39,9 @@ In dieser Übung soll ein Scene Layer zur App hinzugefügt werden, um in der 3D-
     Hinweis
 
     Die Objekte werden nun immer relativ zur Szene, d.h. auf den Gebäuden dargestellt. Außerdem wird zusätzlich ein Versatz von 20 Metern eingefügt. Eine Übersicht zu den verfügbaren Parametern finden Sie hier: [https://developers.arcgis.com/javascript/latest/api-reference/esri-layers-FeatureLayer.html\#elevationInfo](https://developers.arcgis.com/javascript/latest/api-reference/esri-layers-FeatureLayer.html#elevationInfo)
-
-3.  [In 3D-Szenen mit sehr vielen Objekten kann es vorkommen, dass sich die Symbole je nach Betrachtungswinkel stark überlagern und die Ansicht unübersichtlich und unaufgeräumt wirkt. Dies ist in unserem Beispiel nicht stark ausgeprägt, aber es soll dennoch gezeigt werden, wie dies verhindert werden kann. Fügen Sie dazu die folgende Konfiguration zum Krankenhäuser  und Notunterkünfte - Layer hinzu:
-    ](https://developers.arcgis.com/javascript/latest/api-reference/esri-layers-FeatureLayer.html#elevationInfo)
+    [Die Dokumentation zur Elevation Informationen finden sie hier](https://developers.arcgis.com/javascript/latest/api-reference/esri-layers-FeatureLayer.html#elevationInfo)
+3.  In 3D-Szenen mit sehr vielen Objekten kann es vorkommen, dass sich die Symbole je nach Betrachtungswinkel stark überlagern und die Ansicht unübersichtlich und unaufgeräumt wirkt. Dies ist in unserem Beispiel nicht stark ausgeprägt, aber es soll dennoch gezeigt werden, wie dies verhindert werden kann. Fügen Sie dazu die folgende Konfiguration zum Krankenhäuser  und Schulen - Layer hinzu:
+    
 
     **app.json**
 
