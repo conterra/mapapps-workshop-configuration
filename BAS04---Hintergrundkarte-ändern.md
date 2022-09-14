@@ -8,6 +8,7 @@ Created by con terra GmbH
 In dieser Übung lernen Sie, wie Sie weitere Hintergrundkarten der Kartenanwendung hinzufügen können.
 
 1.  Ändern Sie folgende Basemap -Konfiguration im Abschnitt map-init → basemaps der `app.json.`
+Mögliche Basemap IDs sind in der [ESRI API for JavaScript Dokumentation](https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html#basemap). 
 
 2.  Öffnen Sie dazu die manuelle Konfiguration. Die `app.json` ist bereits initial ausgewählt. Kopieren Sie den unteren Ausschnitt in den "basemap" Abschnitt der **`app.json.`**
 
