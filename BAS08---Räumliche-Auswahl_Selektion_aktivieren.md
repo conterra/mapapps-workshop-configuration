@@ -8,7 +8,7 @@ Created by con terra GmbH
 In dieser Übung lernen Sie eine räumliche Selektion auf alle ArcGIS Feature Layer (Rechteck, Punkt, Polygon)  zu konfigurieren.
 Um automatisch alle Layer, die in einer App verwendet werden zur räumlichen Auswahl zur Verfügung zu stellen, kann die sog. **`AutoStoreRegistrierung`**verwendet werden.
 
-1.  Ergänzen Sie dazu in der Konfiguration folgende Option:
+1.  Ergänzen Sie dazu, falls noch nicht vorhanden, in der Konfiguration folgende Option:
 
     **app.json**
 
@@ -46,7 +46,7 @@ Um automatisch alle Layer, die in einer App verwendet werden zur räumlichen Aus
     }
     ```
 
-3.  Ergänzen Sie folgende zwei Bundles, um die Auswahl-Funktion zur Verfügung zu stellen:
+3.  Ergänzen Sie, falls noch nicht vorhanden, folgende zwei Bundles, um die Auswahl-Funktion zur Verfügung zu stellen:
 
     **app.json**
 
