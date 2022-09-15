@@ -6,7 +6,7 @@ Augabe 12 - Arcade Expressions nutzen
 Created by con terra GmbH
 
 In dieser Übung erfahren Sie, wie Sie mit Hilfe von Arcade Expressions Sachdaten am Client für die Ausgabe von Popups anpassen können.
-
+Welche Abfragen möglich sind erfahren Sie in der [Dokumentation der Esri JavaScrip API.](https://developers.arcgis.com/arcade/function-reference/)
 In dem in unserer App genutzten Layer für die Darstellung der Krankenhäuser ([https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer/0](https://services2.arcgis.com/jUpNdisbWqRpMo35/ArcGIS/rest/services/HH_Krankenh%c3%a4user_2016/FeatureServer/0)) gibt es zwei Attribute, die Detail-Auskünfte zu den Angeboten der Krankenhäuser liefern:
 
 -   **`teilnahme_notversorgung`** (Informiert darüber, ob das KKH an der Herzinfarktversorgung teilnimmt)

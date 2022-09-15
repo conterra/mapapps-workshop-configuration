@@ -28,7 +28,7 @@ In dieser Übung soll die Konfiguration der Hintergrund-Karten in ein eigenes Do
     Die Hintergrundkarten werden wie zuvor angezeigt. Die Konfiguration stammt jedoch aus dem Domain-Bundle "`domain-basemaps`". 
     Damit Domain-Bundles über den Filter im Manager gefunden werden, muss ihr Name immer mit "domain-" beginnen.
 
-3.  Öffnen Sie nun die manifest.json Datei des Domain-Bundles im Ordner BAS10/domain-basemaps. Dort finden Sie die Konfiguration der Basemaps wieder:
+3.  Öffnen Sie nun die manifest.json Datei des Domain-Bundles im Ordner [BAS10/domain-basemaps](https://github.com/conterra/mapapps-workshop-configuration/tree/main/BAS10/domain-basemaps). Dort finden Sie die Konfiguration der Basemaps wieder:
 
     **app.json**
 
@@ -67,7 +67,7 @@ In dieser Übung soll die Konfiguration der Hintergrund-Karten in ein eigenes Do
         }
     }
     ```
-
+4. Erstellen Sie eine lokale Datei mit dem Namen manifest.json und kopieren Sie den zuvor gezeigten Text.
 4.  Ergänzen Sie nun eine weitere Basemap, z.B. aus dieser Liste: [https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html\#basemap](https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html#basemap) oder ändern Sie z.B. die beim Start selektierte Hintergrundkarte.
 5.  Erstellen Sie eine neue ZIP-Datei mit der **`manifest.json`** Datei und laden Sie diese im map.apps Manager hoch.
     
